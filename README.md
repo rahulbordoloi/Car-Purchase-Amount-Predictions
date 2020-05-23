@@ -10,17 +10,25 @@ We are supposed to develop a predictive model which will predict the Total Amoun
 
 ## The Task
 To Predict the Total Amount in Dollars that they're going to pay for a Car. <br>
-This a Classic Regression Problem and I've developed this model using Artificial Neural Network with 3 Dense Layer Model in a Sequential Manner. Here, The Optimizer being used is <b>"Adam"<b> and loss is measured with accordance to <b>"mean_squared_error"<b>.<br> 
+This a Classic Regression Problem and I've developed this model using Artificial Neural Network with 3 Dense Layer Model in a Sequential Manner. Here, The Optimizer being used is <b>"Adam"</b> and loss is measured with accordance to <b>"mean_squared_error"</b>.<br> 
   
 ## Technological Stack
 ---
 Language: Python
 Platform: Google Colab
-Framework: Tensorflow(v1.x)
+Framework: Tensorflow (v1.x)
 ---
+---
+name: Rahul Bordoloi
+institution: Kalinga Institute of Industrial Technology, Bhubaneswar
+profile_pic: rahulbordoloi.jpg
+quote: It is only when they go wrong that machines remind you how powerful they are.
+github_user: rahulbordoloi
+---
+
  
  ## Deployments - 
- Heroku Deployment - https://car-purchase-prediction.herokuapp.com/
+ Heroku Deployment - https://car-purchase-prediction.herokuapp.com/ <br>
  Portfolio Deployment - https://rahulbordoloi.me/Car-Purchase-Amount-Predictions/
  
  ## Dependencies - 
