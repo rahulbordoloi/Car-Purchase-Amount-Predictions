@@ -12,3 +12,6 @@ pandas==1.0.3
 tensorflow==1.15.2
 seaborn==0.10.1
 keras==2.3.1
+werkzeug==1.0.1
+gevent==20.5.0
+
