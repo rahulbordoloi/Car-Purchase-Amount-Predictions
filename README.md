@@ -13,11 +13,11 @@ To Predict the Total Amount in Dollars that they're going to pay for a Car. <br>
 This a Classic Regression Problem and I've developed this model using Artificial Neural Network with 3 Dense Layer Model in a Sequential Manner. Here, The Optimizer being used is <b>"Adam"</b> and loss is measured with accordance to <b>"mean_squared_error"</b>.<br> 
   
 ## Technological Stack
- ---
- Language: Python
- Platform: Google Colab
- Framework: Tensorflow (v1.x)
- ---
+
+ Language: Python <br>
+ Platform: Google Colab <br>
+ Framework: Tensorflow (v1.x) <br>
+
  
  ## Deployments - 
  Heroku Deployment - https://car-purchase-prediction.herokuapp.com/ <br>
