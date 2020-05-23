@@ -30,7 +30,7 @@ This a Classic Regression Problem and I've developed this model using Artificial
  ```
  
  ## Model Loss
- <img src="https://github.com/rahulbordoloi/Car-Purchase-Amount-Predictions/blob/master/docs/download.png"
+ <img src="https://github.com/rahulbordoloi/Car-Purchase-Amount-Predictions/blob/master/docs/download.png">
  
  ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
