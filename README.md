@@ -20,7 +20,7 @@ This a Classic Regression Problem and I've developed this model using Artificial
 
  
  ## Deployments - 
- deployment files are in the ```\doc``` directory.
+ deployment files are in the ```\docs``` directory.
  Heroku Deployment - https://car-purchase-prediction.herokuapp.com/ <br>
  Github Pages Deployment - https://rahulbordoloi.me/Car-Purchase-Amount-Predictions/
  
