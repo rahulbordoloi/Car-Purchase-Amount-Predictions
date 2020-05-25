@@ -20,8 +20,9 @@ This a Classic Regression Problem and I've developed this model using Artificial
 
  
  ## Deployments - 
+ deployment files are in the ```\doc``` directory.
  Heroku Deployment - https://car-purchase-prediction.herokuapp.com/ <br>
- Portfolio Deployment - https://rahulbordoloi.me/Car-Purchase-Amount-Predictions/
+ Github Pages Deployment - https://rahulbordoloi.me/Car-Purchase-Amount-Predictions/
  
  ## Dependencies - 
  If you're working on a Local Machine, Install the dependencies from your terminal with -
